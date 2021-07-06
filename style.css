@@ -1,0 +1,62 @@
+body {
+  font-family: "Roboto Slab", serif;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.flex-container {
+  display: flex;
+  margin-bottom: 100px;
+}
+h1 {
+  font-size: 50px;
+}
+h2 {
+  color: grey;
+}
+h3{
+    color-adjust: black;
+}
+.width-half {
+  width: 50%;
+}
+.button-link {
+  text-decoration: none;
+  background-image: linear-gradient(blueviolet, blue);
+  padding: 10px 40px;
+  color: white;
+  font-weight: 600;
+  border-radius: 20px;
+}
+span {
+  color: blueviolet;
+}
+.image-style {
+  width: 70%;
+}
+.paragraph {
+  padding-bottom: 30px;
+  text-decoration: solid;
+}
+.about-me {
+  background-image: url(images/shapes/Frame\ 59.jpg);
+  background-repeat: no-repeat;
+}
+.text_align {
+  text-align: center;
+}
+.recipie-image {
+  width: 90%;
+  padding: 5px 5px 5px 5px;
+}
+#cover8 {
+  border-radius: 20px;
+  width: 85%;
+}
+.recip-title {
+  box-shadow: 8px 8px 30px wheat;
+  width: 30%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 10px;
+  border-radius: 30px;
+}
