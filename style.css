@@ -13,8 +13,8 @@ h1 {
 h2 {
   color: grey;
 }
-h3{
-    color-adjust: black;
+h3 {
+  color-adjust: black;
 }
 .width-half {
   width: 50%;
@@ -59,4 +59,19 @@ span {
   margin-right: 5%;
   padding-left: 10px;
   border-radius: 30px;
+}
+#like-follow {
+  box-shadow: 8px 8px 30px wheat;
+  width: 85%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 20px 20px 20px 20px;
+  border-radius: 10px;
+}
+.option {
+  width: 30%;
+  padding: 10px 10px 10px 10px;
+}
+footer {
+  background-color: blue;
 }
